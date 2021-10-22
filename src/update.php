@@ -5,7 +5,7 @@
 ?>
 
 <main class="container">
-    <h2>Sửa thông tin người hiến máu</h2>
+    <h2>Sửa thông tin bài thi</h2>
     <form  method="post">
     <input type="hidden" class="form-control" name="id" value="<?php echo $id; ?>">
         <div class="form-group row">
